@@ -6,7 +6,7 @@ Flag: `cTf{510}`
 
 ## Problem Statement:
 
-On the occasion of International Tug of War Day, 300 politicians Each from Congress came out to seal the deal, once and for all. To balance the team, Odd positions were occupied by people with Maximum Strength while the Even positions were occupied by people with Minimum Strength. BJP's captain was so fierce, the Congress team's captain fell and got badly injured, resulting in Red blood everywhere. With the purpose of avenging their captain, the Congress gave the opposite team a puzzle consisting of a stupid photo of their captain and told them to first recover the puzzle and then solve it. The key to the final answer is (0, 2) * (1, 3) * (3, 3) / (4, 3).
+On the occasion of International Tug of War Day, 300 politicians Each from BJP and Congress came out to seal the deal, once and for all. To balance the team, Odd positions were occupied by people with Maximum Strength while the Even positions were occupied by people with Minimum Strength. BJP's captain was so fierce, the Congress team's captain fell and got badly injured, resulting in Red blood everywhere. With the purpose of avenging their captain, the Congress gave the opposite team a puzzle consisting of a stupid photo of their captain and told them to first recover the puzzle and then solve it. The key to the final answer is (0, 2) * (1, 3) * (3, 3) / (4, 3).
 
 BJP almost has victory within their grasp. Can you help them solve the problem? The flag format is cTf{numerical_value_obtained}.
 
